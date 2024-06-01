@@ -3,6 +3,10 @@ body{
     color: rgba(245, 245, 245, 0.941);
     text-align: center;
     background: #1A43BF;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -30,11 +34,13 @@ button{
 }
 
 
-#weather_card{
+.weather_card{
     border-radius: 20px;
     width: 300px;
-    box-shadow: 12px, 0px, #041854, 10px;
+
+    background-color: #041854;
 }
+
 #wIcon{
     width: 200px;
 }
