@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+    <title>Weather App</title>
+</head>
+<body>
+    <div>
+        <input type="text" id="locale" placeholder="Search your city here">
+        <button onclick="getWeather()">Search</button> <br>
+        <hr>
+
+        <div class="weather_card">
+            <h1 id="cityName">City Name</h1>
+            <img src=""" id="wIcon">
+            <h2 id="wStatus">Weather Status</h2>
+            <h2 id="wDescription">Weather Description</h2>
+            <h2> <img src="weather_images/temperature.png" id="tIcon"> <span id="Temperature">Temperature</span></h2>
+        </div>
+    </div>
+</body>
+</html>

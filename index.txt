@@ -1,0 +1,14 @@
+API KEY: 6e194663583bdba673e1df8d93e95a91
+
+I am creating the project as a way to test out my ability to make simple API calls
+
+Lets see how I do 😅👌
+
+
+This is the general response from the API I am using.
+
+I downloaded the weather icons from https://flaticons.com
+I downloaded the temperature and city failed icon from https://freepik.com
+
+
+This is my weather project 😅😅 

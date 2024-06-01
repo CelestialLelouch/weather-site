@@ -1,0 +1,45 @@
+body{
+    font-family: 'Franklin Gothic Medium';
+    color: rgba(245, 245, 245, 0.941);
+    text-align: center;
+    background: #1A43BF;
+
+}
+
+input{
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+
+    height: 28px;
+    width: 200px;
+
+    border-radius: 10px;
+}
+
+button{
+    height: 31px;
+    width: 70px;
+    border-radius:10px ;
+
+    background-color: whitesmoke;
+
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+    font-style: normal;
+    color: black;
+}
+
+
+#weather_card{
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: 12px, 0px, #041854, 10px;
+}
+#wIcon{
+    width: 200px;
+}
+
+#tIcon{
+    width: 40px;
+}
+
